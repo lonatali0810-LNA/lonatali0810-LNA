@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Привет, Я Наталья Ложкина!
+Аналитик данных, решаю задачи от обработки «сырых данных» до автоматизации ETL и A/B-тестов. Сегментирую аудиторию, анализирую когорты и нахожу инсайты для бизнеса. Открыта для новых проектов и сотрудничества.
 
-<!--
-**lonatali0810-LNA/lonatali0810-LNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Стек технологий**
+- **Python**: pandas, numpy, scipy.stats, statsmodels, matplotlib, seaborn
+- **SQL**: PostgreSQL, ClickHouse (оконные функции, CTE, агрегация)
+- **Airflow, Spark** (для пайплайнов)
+- **Визуализация**: DataLens, Matplotlib, Seaborn
+- **Статистика**: A/B-тесты, бутстрап, когортный анализ, юнит-экономика (LTV, CAC, ROI, Retention)
 
-Here are some ideas to get you started:
+**Отрасли, с которыми работала:**
+Финансовый сектор, недвижимость, e commerce, социальные проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👉 Мои проекты:
+- учебные проекты
+- волонтерские
+- pet-проект
+
+## 📫 Контакты
+- Telegram: @Natali_Lona
+- Email: Ln0810@list.ru
