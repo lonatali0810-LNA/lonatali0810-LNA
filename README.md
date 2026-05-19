@@ -15,6 +15,3 @@
 - волонтерские
 - pet-проект
 
-## 📫 Контакты
-- Telegram: @Natali_Lona
-- Email: Ln0810@list.ru
