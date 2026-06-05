@@ -3,7 +3,7 @@
 
 **Стек технологий:**
 - **Python**: Анализ данных - pandas, numpy; Статистика - scipy.stats, statsmodels; Визуализация - matplotlib, seaborn
-- **SQL**: PostgreSQL, ClickHouse (оконные функции, CTE, агрегация)
+- **SQL**: PostgreSQL, ClickHouse (агрегация, CASE, CTE, оконные функции)
 - **Airflow, Spark** (для пайплайнов)
 - **BI‑инструменты**: DataLens
 - **Статистика и бизнес-аналитика**: A/B-тесты, бутстрап, когортный анализ, юнит-экономика (LTV, CAC, ROI, Retention)
