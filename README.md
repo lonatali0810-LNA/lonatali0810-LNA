@@ -13,5 +13,5 @@
 ## 👉 Мои проекты:
 - [учебные проекты](https://github.com/lonatali0810-LNA/Practicum_projects)
 - [волонтёрский проект]( https://github.com/lonatali0810-LNA/Volunteering_projects)
-- pet-проект
+- [pet-проект](https://github.com/lonatali0810-LNA/Pet_project)
 
